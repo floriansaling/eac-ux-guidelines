@@ -1,0 +1,4 @@
+---
+title: User Support & Control
+---
+Not all users have the same level of experience, confidence, or familiarity with XR systems. Applications should therefore support accessible and intuitive interactions for both users and instructors. [Onboarding](https://github.com/theorchestrator/eac-ux-guidelines/blob/main/Guidelines/User-Support-&-Control/Onboarding.md) and [Outside Manipulation](https://github.com/theorchestrator/eac-ux-guidelines/blob/main/Guidelines/User-Support-&-Control/Outside-Manipulation.md) address guidance and control from inside and outside the application, while [Super Soldier Syndrome](https://github.com/theorchestrator/eac-ux-guidelines/blob/main/Guidelines/User-Support-&-Control/Super-Soldier-Syndrome.md) provides recommendations to ensure that users behave naturally and authentically within the simulation.
