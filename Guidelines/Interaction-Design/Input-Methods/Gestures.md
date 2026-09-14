@@ -2,11 +2,11 @@
 <tr>
 <th>
 
-![](https://raw.githubusercontent.com/theorchestrator/eac-ux-guidelines/main/uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG){width="88" height="88"}Do's
+<img src="https://raw.githubusercontent.com/theorchestrator/eac-ux-guidelines/main/uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG" alt="" width="88" height="88">Do's
 </th>
 <th>
 
-![No.PNG](uploads/d414000014132194ace6f369fde11cc7/No.PNG){width="83" height="83"}Don'ts
+<img src="https://raw.githubusercontent.com/theorchestrator/eac-ux-guidelines/main/uploads/d414000014132194ace6f369fde11cc7/No.PNG" alt="No.PNG" width="83" height="83">Don'ts
 </th>
 </tr>
 <tr>
@@ -36,4 +36,4 @@ Gestures are an input method that allow users to interact with virtual environme
 * **Combine with Eye Tracking When Appropriate:** Integrating eye tracking can improve precision and reduce unintended inputs. By identifying what the user is focusing on, the system can better determine whether a gesture is intentional and correctly targeted.
 * **Favour Hand Rays for Distant Interaction:** Not all objects are within immediate reach. Hand rays enable users to interact with distant elements more easily, improving accessibility and reducing the need for excessive movement.
 
-These guidelines have been taken and summarised from the Microsoft Mixed Reality Guidelines \[[34](https://github.com/theorchestrator/eac-ux-guidelines/blob/main/Guidelines/5.-References.md)\]
+These guidelines have been taken and summarised from the Microsoft Mixed Reality Guidelines \[[34](https://github.com/theorchestrator/eac-ux-guidelines/blob/main/Guidelines/References.md)\]

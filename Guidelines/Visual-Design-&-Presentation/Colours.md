@@ -2,11 +2,11 @@
 <tr>
 <th>
 
-![](https://raw.githubusercontent.com/theorchestrator/eac-ux-guidelines/main/uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG){width="88" height="88"}Do's
+<img src="https://raw.githubusercontent.com/theorchestrator/eac-ux-guidelines/main/uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG" alt="" width="88" height="88">Do's
 </th>
 <th>
 
-![No.PNG](uploads/d414000014132194ace6f369fde11cc7/No.PNG){width="83" height="83"}Don'ts
+<img src="https://raw.githubusercontent.com/theorchestrator/eac-ux-guidelines/main/uploads/d414000014132194ace6f369fde11cc7/No.PNG" alt="No.PNG" width="83" height="83">Don'ts
 </th>
 </tr>
 <tr>
@@ -31,9 +31,9 @@ Colours are an important aspect of any application. Choosing the wrong colours c
 
 * **What Are Saturated Colours?:** Saturation refers to the intensity of the colour. The more saturated a colour is, the more vibrant it appears. On the other hand, the less saturated a colour is, the closer it gets to grey. \[[2, 26](https://github.com/theorchestrator/eac-ux-guidelines/blob/main/Guidelines/References.md)\]
 
-![image.png](uploads/bb25bc27cea0484963cf77f135707d44/image.png){width="441" height="465"}
+<img src="https://raw.githubusercontent.com/theorchestrator/eac-ux-guidelines/main/uploads/bb25bc27cea0484963cf77f135707d44/image.png" alt="image.png" width="441" height="465">
 
-* **Use:** Highly saturated colours are often very attention-grabbing and can be seen as aggressive. Additionally, in virtual environments, highly saturated colours can contribute to visual fatigue (see [Visual Fatigue](https://github.com/theorchestrator/eac-ux-guidelines/blob/main/Guidelines/Visual-Fatigue.md)_)_. Lower-saturation colours are generally recommended for comfortable long-term use. \[[2, 26, 31, 33](https://github.com/theorchestrator/eac-ux-guidelines/blob/main/Guidelines/References.md)\]
+* **Use:** Highly saturated colours are often very attention-grabbing and can be seen as aggressive. Additionally, in virtual environments, highly saturated colours can contribute to visual fatigue (see [Visual Fatigue](https://github.com/theorchestrator/eac-ux-guidelines/blob/main/Guidelines/User-Comfort/Visual-Fatigue.md)_)_. Lower-saturation colours are generally recommended for comfortable long-term use. \[[2, 26, 31, 33](https://github.com/theorchestrator/eac-ux-guidelines/blob/main/Guidelines/References.md)\]
 * **Saturation changer tool**
 
   https://pinetools.com/change-color-saturation
@@ -42,9 +42,9 @@ Colours are an important aspect of any application. Choosing the wrong colours c
 
 * **What are Luminescent Colours?:** Luminosity is the perceived brightness of a colour. Luminosity and lightness value of a colour are not necessarily the same thing. The lightness value can be adjusted by darkening or lightening the colour, but luminosity is a value that every colour (hue) naturally has. This value is especially noticeable in greyscale. Colours with high luminosity are closer to white in greyscale, while those with low luminosity are closer to black. \[[14](https://github.com/theorchestrator/eac-ux-guidelines/blob/main/Guidelines/References.md)\]
 
-![image.png](uploads/78a2d1c2ee781b0267678b8c9534a388/image.png)
+![image.png](https://raw.githubusercontent.com/theorchestrator/eac-ux-guidelines/main/uploads/78a2d1c2ee781b0267678b8c9534a388/image.png)
 
-* **Use**: Different luminescent values can highlight a colour since the contrast between the colours is more accentuated. However, highly luminescent colours can cause visual fatigue in a virtual environment (see [Visual Fatigue](https://github.com/theorchestrator/eac-ux-guidelines/blob/main/Guidelines/Visual-Fatigue.md)). These colours should therefore be used sparingly, with most emphasis placed on lower-luminosity colours. \[[14, 31, 33](https://github.com/theorchestrator/eac-ux-guidelines/blob/main/Guidelines/References.md)\]
+* **Use**: Different luminescent values can highlight a colour since the contrast between the colours is more accentuated. However, highly luminescent colours can cause visual fatigue in a virtual environment (see [Visual Fatigue](https://github.com/theorchestrator/eac-ux-guidelines/blob/main/Guidelines/User-Comfort/Visual-Fatigue.md)). These colours should therefore be used sparingly, with most emphasis placed on lower-luminosity colours. \[[14, 31, 33](https://github.com/theorchestrator/eac-ux-guidelines/blob/main/Guidelines/References.md)\]
 
 #### Monochromatic Colours
 
@@ -58,8 +58,8 @@ Colours are an important aspect of any application. Choosing the wrong colours c
 
 The official ESA colours + their monochromatic colour palette:
 
-![image.png](uploads/19159510cbe26064368a2a53c4c08968/image.png){width="840" height="595"}
+<img src="https://raw.githubusercontent.com/theorchestrator/eac-ux-guidelines/main/uploads/19159510cbe26064368a2a53c4c08968/image.png" alt="image.png" width="840" height="595">
 
-[esa-colour-recap-charts.pdf](uploads/f07bed2afe1beb83df7cb0eb1d52f861/esa-colour-recap-charts.pdf)
+[esa-colour-recap-charts.pdf](https://raw.githubusercontent.com/theorchestrator/eac-ux-guidelines/main/uploads/f07bed2afe1beb83df7cb0eb1d52f861/esa-colour-recap-charts.pdf)
 
 These colours can be found on the official ESA branding website: https://brand.esa.int/asset-s/

@@ -2,11 +2,11 @@
 <tr>
 <th>
 
-![](https://raw.githubusercontent.com/theorchestrator/eac-ux-guidelines/main/uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG){width="88" height="88"}Do's
+<img src="https://raw.githubusercontent.com/theorchestrator/eac-ux-guidelines/main/uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG" alt="" width="88" height="88">Do's
 </th>
 <th>
 
-![No.PNG](uploads/d414000014132194ace6f369fde11cc7/No.PNG){width="83" height="83"}Don'ts
+<img src="https://raw.githubusercontent.com/theorchestrator/eac-ux-guidelines/main/uploads/d414000014132194ace6f369fde11cc7/No.PNG" alt="No.PNG" width="83" height="83">Don'ts
 </th>
 </tr>
 <tr>
@@ -27,7 +27,7 @@
 </tr>
 </table>
 
-Voice input is a common interaction method in XR applications, particularly in situations where users need to interact with the system without using their hands. This can be especially beneficial in scenarios that require multitasking, physical movement, or sustained manual interaction, such as training, maintenance, or collaborative tasks. Voice-based interactions often enable faster and more natural communication, which can improve efficiency and enhance the overall sense of immersion. Most of the following guidelines have been taken from Microsoft’s AR Design guidelines regarding the Hololens \[[34](https://github.com/theorchestrator/eac-ux-guidelines/blob/main/Guidelines/5.-References.md)\].
+Voice input is a common interaction method in XR applications, particularly in situations where users need to interact with the system without using their hands. This can be especially beneficial in scenarios that require multitasking, physical movement, or sustained manual interaction, such as training, maintenance, or collaborative tasks. Voice-based interactions often enable faster and more natural communication, which can improve efficiency and enhance the overall sense of immersion. Most of the following guidelines have been taken from Microsoft’s AR Design guidelines regarding the Hololens \[[34](https://github.com/theorchestrator/eac-ux-guidelines/blob/main/Guidelines/References.md)\].
 
 * **Use concise commands:** When possible, choose keywords of two or more syllables. One-syllable words tend to use different vowel sounds when spoken by persons of different accents. Example: "Play video" is better than "Play the currently selected video"
 * **Use simple vocabulary:** Simpler vocabulary is easier to say, more rememberable and can cause fewer mistakes. Example: "Show note" is better than "Show placard"

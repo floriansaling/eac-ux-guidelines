@@ -26,12 +26,12 @@ The eleven guideline sections are organised into four overarching categories: [*
 
 Example:
 
-![image.png](uploads/6d8ac29b38b1ac63b99b79a4ebee7d5c/image.png){width="748" height="234"}
+<img src="https://raw.githubusercontent.com/theorchestrator/eac-ux-guidelines/main/uploads/6d8ac29b38b1ac63b99b79a4ebee7d5c/image.png" alt="image.png" width="748" height="234">
 
 ### Cheat Sheet
 
-![image.png](uploads/42cfa2374c0ad5ce7f65eec90408fa72/image.png){width=849 height=600}
+<img src="https://raw.githubusercontent.com/theorchestrator/eac-ux-guidelines/main/uploads/42cfa2374c0ad5ce7f65eec90408fa72/image.png" alt="image.png" width="849" height="600">
 
-[XR Guidelines Cheat Sheet.pdf](uploads/05cbb7d65ffbab6b6302630a9079a0ff/XR_Guidelines_Cheat_Sheet.pdf)
+[XR Guidelines Cheat Sheet.pdf](https://raw.githubusercontent.com/theorchestrator/eac-ux-guidelines/main/uploads/05cbb7d65ffbab6b6302630a9079a0ff/XR_Guidelines_Cheat_Sheet.pdf)
 
-[XR Guidelines.docx](uploads/2399b2d7da427416a3b08843d67b82ba/XR_Guidelines.docx)
+[XR Guidelines.docx](https://raw.githubusercontent.com/theorchestrator/eac-ux-guidelines/main/uploads/2399b2d7da427416a3b08843d67b82ba/XR_Guidelines.docx)
