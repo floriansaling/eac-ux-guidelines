@@ -2,11 +2,11 @@
 <tr>
 <th>
 
-<img src="uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG" alt="" width="88" height="88">Do's
+<img src="/eac-ux-guidelines/uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG" alt="" width="88" height="88">Do's
 </th>
 <th>
 
-<img src="uploads/d414000014132194ace6f369fde11cc7/No.PNG" alt="No.PNG" width="83" height="83">Don'ts
+<img src="/eac-ux-guidelines/uploads/d414000014132194ace6f369fde11cc7/No.PNG" alt="No.PNG" width="83" height="83">Don'ts
 </th>
 </tr>
 <tr>
@@ -37,7 +37,7 @@
 * **Disability is a Spectrum:** Disability is not defined by someone's health condition but by a mismatch between a person and their environment. Not every disability is the same, and people have different needs and preferences. Even small changes can make an application more accessible, and bigger changes might help more people than initially intended. Especially when looking at permanent, temporary and situational disabilities, it becomes clear that the people who can benefit from accessibility features are more than initially expected. \[[5, 16, 18](References.md)\]
 * **Permanent, Temporary and Situational Disabilities:** There are five different categories of disabilities: motor skills (touch), vision, hearing, speech, and cognition. People with **permanent disabilities** are permanently affected by disabilities that fall into one or more of these categories, such as people who are blind, deaf or missing an arm. There are also people who are not permanently affected by a disability but can benefit from the same accessibility accommodations, such as people with temporary or situational disabilities. **Temporary disabilities** are conditions such as a broken arm, an eye or ear infection, which can make people temporarily dependent on a more accessible environment. There are also situations which cause people to experience **situational disabilities** suddenly. For example, loud and noisy environments such as fairs can make it hard to hear audio guidance or concentrate on the application; a heavy accent can cause trouble with voice recognition; and holding something can make using two controllers difficult. Everyone experiences some form of disability at times, so it’s important to design with this in mind. \[[5, 18, 19](References.md)\]
 
-  <img src="uploads/fffd0dea5a0efad25121b67308debe97/image.png" alt="image.png" width="879" height="494">\[[19](References.md)\]
+  <img src="/eac-ux-guidelines/uploads/fffd0dea5a0efad25121b67308debe97/image.png" alt="image.png" width="879" height="494">\[[19](References.md)\]
 
 ### General Guidance:
 
@@ -51,4 +51,4 @@
 * **Allow Reversibility of Actions:** Mistakes are a natural part of interaction, especially in XR where precision can be affected by hand tremors, accidental input, or rushed decisions. Users should be able to undo or redo actions, especially when those actions have a significant impact on the course of the application. \[[16](References.md)\]
 * **Make Users Aware of Accessibility Features:** Users might not be aware that there are features that can accommodate their needs and preferences, especially if they are new to XR. Accessibility features or settings should be mentioned in the onboarding or via an instructor in person, so that the user can get the full potential out of the application. If possible, check in with users during the experience, for example, offering a seat if someone seems motion sick or suggesting an easier mode if they appear overwhelmed.
 
-  <img src="uploads/01860000978d4a79ec7d762ee0271431/Screenshot_2026-01-16_110342.png" alt="Screenshot 2026-01-16 110342.png" width="320" height="330"><img src="uploads/d7ddfe9009ec6a397c39b9f68fc3d915/Chair.png" alt="Chair.png" width="208" height="292">
+  <img src="/eac-ux-guidelines/uploads/01860000978d4a79ec7d762ee0271431/Screenshot_2026-01-16_110342.png" alt="Screenshot 2026-01-16 110342.png" width="320" height="330"><img src="/eac-ux-guidelines/uploads/d7ddfe9009ec6a397c39b9f68fc3d915/Chair.png" alt="Chair.png" width="208" height="292">

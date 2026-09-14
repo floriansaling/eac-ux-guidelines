@@ -2,11 +2,11 @@
 <tr>
 <th>
 
-<img src="uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG" alt="" width="88" height="88">Do's
+<img src="/eac-ux-guidelines/uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG" alt="" width="88" height="88">Do's
 </th>
 <th>
 
-<img src="uploads/d414000014132194ace6f369fde11cc7/No.PNG" alt="No.PNG" width="83" height="83">Don'ts
+<img src="/eac-ux-guidelines/uploads/d414000014132194ace6f369fde11cc7/No.PNG" alt="No.PNG" width="83" height="83">Don'ts
 </th>
 </tr>
 <tr>
@@ -35,4 +35,4 @@ Many XR applications involve an additional person, such as a supervisor or train
 * **Create Common Visual Ground:** Instructors should have access to at least a mirrored view of what the user is seeing. Guiding someone through an XR application without knowing their exact perspective makes support more difficult and can quickly become confusing for both parties. Since mirrored views can still have limitations, such as a reduced field of view or unstable camera movement, it is beneficial to allow instructors to enter the virtual environment themselves or provide them with multiple viewpoints of the user. This shared visual context helps instructors give clearer, more precise guidance and improves overall communication. \[[12](References.md)\]
 * **Common Useful Features:** While instructor needs vary by application, certain tools are broadly useful across many XR experiences. For example, space-related applications often benefit from features that allow instructors to teleport the user, adjust lighting conditions (such as the sun’s position), or highlight objects using lasers or outlines. Other functions that could be beneficial for multiple application are the options to reset bigger action, control the rotation or movement of the user (e.g. stop uncontrolled rotation to reduce motion sickness), navigate to the user if the instructor’s view is independent of the user’s view, activate controller diagram or virtual controller if the user seems confused, and have the options to switch perspective if the instructor has access to multiple camera view.
 
-  <img src="uploads/7369d6e53bafe3349e983aa71974bd6f/Teacher.png" alt="Teacher.png" width="385" height="305">
+  <img src="/eac-ux-guidelines/uploads/7369d6e53bafe3349e983aa71974bd6f/Teacher.png" alt="Teacher.png" width="385" height="305">

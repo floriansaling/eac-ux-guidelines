@@ -2,11 +2,11 @@
 <tr>
 <th>
 
-<img src="uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG" alt="" width="88" height="88">Do's
+<img src="/eac-ux-guidelines/uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG" alt="" width="88" height="88">Do's
 </th>
 <th>
 
-<img src="uploads/d414000014132194ace6f369fde11cc7/No.PNG" alt="No.PNG" width="83" height="83">Don'ts
+<img src="/eac-ux-guidelines/uploads/d414000014132194ace6f369fde11cc7/No.PNG" alt="No.PNG" width="83" height="83">Don'ts
 </th>
 </tr>
 <tr>
@@ -31,7 +31,7 @@ Mapping, or controller/button mapping, refers to the assignment of buttons to va
 
 #### Example Controller Mapping:
 
-<img src="uploads/3c7b8117d68c07f1a3b9d491947a3645/image.png" alt="image.png" width="721" height="373">
+<img src="/eac-ux-guidelines/uploads/3c7b8117d68c07f1a3b9d491947a3645/image.png" alt="image.png" width="721" height="373">
 
 ### General Guidelines
 
@@ -43,7 +43,7 @@ Mapping, or controller/button mapping, refers to the assignment of buttons to va
 
 Movement in VR can be achieved through various methods, depending on factors such as the limitations of the current virtual environment, the user's VR experience, and more. The most common movement techniques are _Steering, Teleportation_, and _Climbing_.
 
-<img src="uploads/edd7049205863a72f31664bf25af6d80/Screenshot_2026-01-16_144736.png" alt="Screenshot 2026-01-16 144736.png" width="456" height="375">
+<img src="/eac-ux-guidelines/uploads/edd7049205863a72f31664bf25af6d80/Screenshot_2026-01-16_144736.png" alt="Screenshot 2026-01-16 144736.png" width="456" height="375">
 
 * **Steering**:
   * **Description:** With the steering technique, the user moves the joystick in the direction they want to move. Depending on the gravity level and the environment of the virtual character, the user will either **walk or fly** towards the direction they are steering. \[[7](References.md)\]
@@ -52,7 +52,7 @@ Movement in VR can be achieved through various methods, depending on factors suc
   * **Can Induce Motion Sickness**: Studies have shown that this movement can cause motion sickness in users. This is most likely due to the fact that the movement of the virtual character does not align with the movement of the user, who is most likely standing still during application use (see [Motion Sickness](Motion-Sickness.md)). \[[7](References.md)\]
 * **Teleportation:**
 
-  <img src="uploads/e00f824d8eecfa33dd9ad48ba7872d01/Screenshot_2026-01-16_104806.png" alt="Screenshot 2026-01-16 104806.png" width="900" height="507">
+  <img src="/eac-ux-guidelines/uploads/e00f824d8eecfa33dd9ad48ba7872d01/Screenshot_2026-01-16_104806.png" alt="Screenshot 2026-01-16 104806.png" width="900" height="507">
   * **Description:** The teleportation movement technique allows users to jump from one location to another. This is often done by either using the joystick to point to the location the user wants to jump to, pressing a button and pointing the controller in the desired direction, or a combination of both. Once teleportation is activated, the user usually sees a circle at the desired end position and an arc connecting the circle and the virtual character to indicate the jump. Once the controls are released, the user jumps towards the circle.
   * **Can Reduce Motion Sickness:** Various studies have shown that users feel less motion sick with the teleportation method, especially compared to the steering method. \[[7, 42](References.md)\]
   * **Makes Movement Quicker:** Users can move quickly from point A to point B. This is especially useful when the environment is vast. \[[7](References.md)\]
@@ -60,7 +60,7 @@ Movement in VR can be achieved through various methods, depending on factors suc
   * **Not Intuitive:** The concept of teleportation and its controls are usually not very intuitive, especially for new users. Users can feel overwhelmed by the movement, and it can often lead to accidental teleportation, which can confuse the user. In cases where the application duration is short and/or the user is a bit overwhelmed with the controls, it is good to have an additional movement option to teleportation, e.g. steering. In these cases, teleportation can be activated through another button or via a trainer/supervisor (see [Outside Manipulation](Outside-Manipulation.md)).
 * **Climbing:**
 
-  <img src="uploads/43c5156020f5ee422337381298da3927/Screenshot_2026-01-16_104854.png" alt="Screenshot 2026-01-16 104854.png" width="900" height="507">
+  <img src="/eac-ux-guidelines/uploads/43c5156020f5ee422337381298da3927/Screenshot_2026-01-16_104854.png" alt="Screenshot 2026-01-16 104854.png" width="900" height="507">
   * **Definition:** Climbing is a movement method where users use their hands to move their virtual body. Users can grab fixed objects in their environment, such as handles, and push their virtual body towards their desired position. This movement technique is usually used in simulations in microgravity environments.
   * **Suitable for Training:** This method is effective for training users to move in microgravity environments, such as the International Space Station (ISS) or Extravehicular Activities (EVAs), since the movement is similar to real-world movement in these environments.
   * **Can Cause Muscle Fatigue:** To move in these environments, users have to hold their arms up for extended periods of time. Plan breaks so the user can rest their arms for a bit and regularly check in to make sure they are not straining themselves too much.
@@ -80,7 +80,7 @@ There are also various rotation methods in VR. Users often can rotate their head
 
 Grab and select are important functions that are nearly always needed in any application. With grab, the user can grab items in their environment and interact with them. The select options allow users to interact with GUIs such as menus.
 
-<img src="uploads/3a88bfc3f609707210683cd1228a8257/Screenshot_2026-01-16_150343.png" alt="Screenshot 2026-01-16 150343.png" width="531" height="344">
+<img src="/eac-ux-guidelines/uploads/3a88bfc3f609707210683cd1228a8257/Screenshot_2026-01-16_150343.png" alt="Screenshot 2026-01-16 150343.png" width="531" height="344">
 
 * **Choose Appropriate Mapping:** The controller mapping for the grab and select options may vary from application to application, depending on the environment, use case, user, and other factors. Some applications use the **trigger button for selecting items and the grip button to grab objects.** However, when throwing objects, it might be easier to use the trigger button to grab them. Additionally, new users often confuse the trigger and the grip button, so some applications use the same functions for both buttons to make it easier for the user. \[[28, 44](References.md)\]
 * **Accommodate Left-Hand User:** Grabbing and selecting are often actions we do with our dominant hand in the real world. To make virtual applications more immersive and comfortable for users, users should be able to interact with objects with either their left or right hand. This can be done by mapping the same functions to both controllers, or by allowing users, either directly or via an instructor or supervisor, to map the controls to their preferred configuration. This could also help other users who cannot use their right hand as a dominant hand (see [Accessibility](Accessibility.md)).

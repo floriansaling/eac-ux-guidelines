@@ -2,11 +2,11 @@
 <tr>
 <th>
 
-<img src="uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG" alt="" width="88" height="88">Do's
+<img src="/eac-ux-guidelines/uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG" alt="" width="88" height="88">Do's
 </th>
 <th>
 
-<img src="uploads/d414000014132194ace6f369fde11cc7/No.PNG" alt="No.PNG" width="83" height="83">Don'ts
+<img src="/eac-ux-guidelines/uploads/d414000014132194ace6f369fde11cc7/No.PNG" alt="No.PNG" width="83" height="83">Don'ts
 </th>
 </tr>
 <tr>
@@ -40,6 +40,6 @@ Interaction feedback refers to the information users receive in response to thei
 * **Be Conscious About Colour Choices:** Colour coding can be an effective feedback tool when it is paired with other visual, audio or haptic cues. Colours should contrast clearly with the background to remain noticeable, but not so strongly that they cause discomfort or visual fatigue (see [Colours](Colours.md) and [Visual Fatigue](Visual-Fatigue.md)). It is also important to consider the contextual meaning of colours. Colours with strong predefined associations, e.g. red for warnings or errors, should only be used when they align with the intended message. Thoughtful colour choices help ensure feedback is clear, comfortable, and contextually appropriate. \[[47](References.md)\]
 * **Favour Billboarding with 2D Markers:** 2D elements can seem off-putting and can often be missed in a 3D environment. Billboarding could be a solution to make 2D markers, such as arrows or icons, more fitting and noticeable. Billboarding means rotating a 2D image towards the user so it always faces them. This makes them easier to spot from any direction and prevents them from being mistaken for part of the environment, such as wall textures or decorative elements.
 
-  <img src="uploads/ed91d460607ea530ca008b3234d7e279/Screenshot_2026-01-30_143801.png" alt="Screenshot 2026-01-30 143801.png" width="295" height="180"><img src="uploads/b7be4dbefcda582f082415b56f551ef6/Screenshot_2026-01-30_143850.png" alt="Screenshot 2026-01-30 143850.png" width="350" height="177">
+  <img src="/eac-ux-guidelines/uploads/ed91d460607ea530ca008b3234d7e279/Screenshot_2026-01-30_143801.png" alt="Screenshot 2026-01-30 143801.png" width="295" height="180"><img src="/eac-ux-guidelines/uploads/b7be4dbefcda582f082415b56f551ef6/Screenshot_2026-01-30_143850.png" alt="Screenshot 2026-01-30 143850.png" width="350" height="177">
 
-  <img src="uploads/d2eb74e8029383685924932ca2f128e3/Haptic_Feedback.PNG" alt="Haptic Feedback.PNG" width="202" height="276">
+  <img src="/eac-ux-guidelines/uploads/d2eb74e8029383685924932ca2f128e3/Haptic_Feedback.PNG" alt="Haptic Feedback.PNG" width="202" height="276">

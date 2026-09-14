@@ -5,11 +5,11 @@ title: Visual Fatigue
 <tr>
 <th>
 
-<img src="uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG" alt="" width="88" height="88">Do's
+<img src="/eac-ux-guidelines/uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG" alt="" width="88" height="88">Do's
 </th>
 <th>
 
-<img src="uploads/d414000014132194ace6f369fde11cc7/No.PNG" alt="No.PNG" width="83" height="83">Don'ts
+<img src="/eac-ux-guidelines/uploads/d414000014132194ace6f369fde11cc7/No.PNG" alt="No.PNG" width="83" height="83">Don'ts
 </th>
 </tr>
 <tr>
@@ -44,4 +44,4 @@ Visual fatigue is a form of mental or physical exhaustion resulting from excessi
 * **Avoid Dynamism in Videos:** Fast-paced and dynamic videos in a virtual environment can lead to an increase in visual fatigue for users. Slower and calmer videos are recommended in particular for instruction videos. \[[42](References.md)\]
 * **Allow Small Breaks:** The longer the duration of the application goes on, the more likely it is that the user can experience visual fatigue. Research has shown that visual fatigue is common after 20 minutes of use, and some symptoms can already appear after 10 minutes. Encouraging short breaks roughly every 15 minutes helps users reset, reduces strain, and normalises the experience of needing rest while using VR. \[[41, 42](References.md)\]
 
-  <img src="uploads/9a223000ff50d303b3412dd0e749a1a3/Eye_Strain.png" alt="Eye Strain.png" width="187" height="282">
+  <img src="/eac-ux-guidelines/uploads/9a223000ff50d303b3412dd0e749a1a3/Eye_Strain.png" alt="Eye Strain.png" width="187" height="282">

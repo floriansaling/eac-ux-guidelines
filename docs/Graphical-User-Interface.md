@@ -5,11 +5,11 @@ title: Billboard Interfaces
 <tr>
 <th>
 
-<img src="uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG" alt="" width="88" height="88">Do's
+<img src="/eac-ux-guidelines/uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG" alt="" width="88" height="88">Do's
 </th>
 <th>
 
-<img src="uploads/d414000014132194ace6f369fde11cc7/No.PNG" alt="No.PNG" width="83" height="83">Don'ts
+<img src="/eac-ux-guidelines/uploads/d414000014132194ace6f369fde11cc7/No.PNG" alt="No.PNG" width="83" height="83">Don'ts
 </th>
 </tr>
 <tr>
@@ -41,7 +41,7 @@ Good GUI design can make an application easier, more comfortable, and more enjoy
 
 #### Position:
 
-<img src="uploads/05f90548cf6e8bc69c4b89fa5a9a688b/image.png" alt="image.png" width="453" height="356">\[4\]
+<img src="/eac-ux-guidelines/uploads/05f90548cf6e8bc69c4b89fa5a9a688b/image.png" alt="image.png" width="453" height="356">\[4\]
 
 * **Avoid Placing GUI Elements Outside the Comfortable Content Zone:** The comfortable content zone is the visual zone right in front of the user. Any element that is in the peripheral zone is only visible when the user rotates their head, and for elements in the curiosity zone, the user has to move their shoulders in addition to the head movement. Elements that are important or need more time for the user to focus on should be placed in the comfortable content zone. Any elements placed outside the comfortable content zone could cause discomfort, such as neck strain, for the user, or go unnoticed. \[[4](References.md)\]
 * **Maintain a Comfortable Viewing Distance:** Any GUI elements should be placed at a good distance from the user. For comfort, the GUI should be placed somewhere **between 0.5m and 1m** away from the user. Elements that are placed too far can make interaction more difficult or make text harder to read. \[[4](References.md)\]
@@ -59,7 +59,7 @@ Good GUI design can make an application easier, more comfortable, and more enjoy
 
 **_Negative_ Example \[**[33](References.md)**\]:**
 
-![image.png](uploads/b52bc9816ba24aa42a2fcb6d292d6d82/image.png)
+![image.png](/eac-ux-guidelines/uploads/b52bc9816ba24aa42a2fcb6d292d6d82/image.png)
 
 * Blurry texts and images
 * Located in the peripheral zone
@@ -72,7 +72,7 @@ Good GUI design can make an application easier, more comfortable, and more enjoy
 
 **Positive Example:**
 
-<img src="uploads/ab87074938a53cc42aa0507f820b100c/Screenshot_2026-01-14_142134.png" alt="Screenshot 2026-01-14 142134.png" width="359" height="275">
+<img src="/eac-ux-guidelines/uploads/ab87074938a53cc42aa0507f820b100c/Screenshot_2026-01-14_142134.png" alt="Screenshot 2026-01-14 142134.png" width="359" height="275">
 
 * Rounded design
 * No floating buttons

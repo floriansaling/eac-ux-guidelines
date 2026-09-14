@@ -2,11 +2,11 @@
 <tr>
 <th>
 
-<img src="uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG" alt="" width="88" height="88">Do's
+<img src="/eac-ux-guidelines/uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG" alt="" width="88" height="88">Do's
 </th>
 <th>
 
-<img src="uploads/d414000014132194ace6f369fde11cc7/No.PNG" alt="No.PNG" width="83" height="83">Don'ts
+<img src="/eac-ux-guidelines/uploads/d414000014132194ace6f369fde11cc7/No.PNG" alt="No.PNG" width="83" height="83">Don'ts
 </th>
 </tr>
 <tr>
@@ -47,7 +47,7 @@ User experience with XR applications varies widely, with most having no prior ex
 
 #### Controller Diagram
 
-<img src="uploads/7c90ec898851eb81a06c08d579b13753/Screenshot_2026-01-16_110011.png" alt="Screenshot 2026-01-16 110011.png" width="457" height="321">
+<img src="/eac-ux-guidelines/uploads/7c90ec898851eb81a06c08d579b13753/Screenshot_2026-01-16_110011.png" alt="Screenshot 2026-01-16 110011.png" width="457" height="321">
 
 * **Benefits:** Studies have shown that controller diagrams have a significantly higher controller learnability than just text-based instructions. \[[29](References.md)\]
 * **Keep It Simple:** Do not overwhelm users with too much text. Keeping it simple helps the user to quickly understand the diagram without being too overwhelmed by the new instructions. Too much text could also lead users to miss vital information if they only skim it. \[[12, 29](References.md)\]
@@ -55,7 +55,7 @@ User experience with XR applications varies widely, with most having no prior ex
 
 #### Virtual Controllers with Tooltips
 
-<img src="uploads/3389668743aed3d80d19ab61eda594ae/Screenshot_2026-01-13_145345.png" alt="Screenshot 2026-01-13 145345.png" width="434" height="257">
+<img src="/eac-ux-guidelines/uploads/3389668743aed3d80d19ab61eda594ae/Screenshot_2026-01-13_145345.png" alt="Screenshot 2026-01-13 145345.png" width="434" height="257">
 
 * **Benefits:** Virtual controller with tooltips typically outperform text-based instructions and diagrams for complex applications, offering higher learnability, better performance, and improved player experience. \[[29](References.md)\]
 * **Keep It Simple:** The texts on the controller tooltips should be short and simple (ideally no more than two words). Too long descriptions could make reading harder, and the labels would obstruct more of the environment. \[[12](References.md)\]

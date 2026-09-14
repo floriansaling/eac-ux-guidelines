@@ -2,11 +2,11 @@
 <tr>
 <th>
 
-<img src="uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG" alt="" width="88" height="88">Do's
+<img src="/eac-ux-guidelines/uploads/9ffa5835d60764111f03716acdb78806/Yes.PNG" alt="" width="88" height="88">Do's
 </th>
 <th>
 
-<img src="uploads/d414000014132194ace6f369fde11cc7/No.PNG" alt="No.PNG" width="83" height="83">Don'ts
+<img src="/eac-ux-guidelines/uploads/d414000014132194ace6f369fde11cc7/No.PNG" alt="No.PNG" width="83" height="83">Don'ts
 </th>
 </tr>
 <tr>
@@ -41,4 +41,4 @@ Motion sickness, often referred to as cybersickness in virtual environments, is 
 * **New Users Are More Susceptible:** Users with more VR experience have reported fewer motion sickness symptoms than new users. Studies suggest that repeated exposure can help reduce motion sickness symptoms over time. Theories also suggest that becoming accustomed to a VR environment with a high likelihood of inducing motion sickness can help astronauts prepare for motion sickness in microgravity. Although users can benefit from building tolerance to motion sickness over time, more susceptible users should still be able to enjoy VR and not be exposed to symptoms any more than necessary. One solution would be to add features that can mitigate the feeling of motion sickness, such as limiting unnatural rotations, restricting the field of vision, offering seating options, creating a comfortable environment and more, which the user or a supervisor can turn on or off so that the user can slowly ease into the application. \[[9, 32](References.md)\]
 * **Create a Comfortable Environment:** Users should be aware of whether an application is more likely to induce motion sickness and of methods that can help mitigate symptoms, e.g., sitting down or chewing gum. They should feel comfortable asking for breaks, and supervisors should regularly check in to ensure the user is doing well. Small environmental adjustments, e.g. providing airflow from a nearby fan, can also help alleviate symptoms and make the overall experience more pleasant. \[[9](References.md)\]
 
-  <img src="uploads/7ebf0d28833c3f2d5c655b496153335f/Disoriented.PNG" alt="Disoriented.PNG" width="261" height="279">
+  <img src="/eac-ux-guidelines/uploads/7ebf0d28833c3f2d5c655b496153335f/Disoriented.PNG" alt="Disoriented.PNG" width="261" height="279">
