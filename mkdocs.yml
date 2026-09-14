@@ -1,0 +1,72 @@
+site_name: EAC UX Guidelines
+site_description: UX guidance for designing XR applications
+site_url: https://theorchestrator.github.io/eac-ux-guidelines/
+repo_url: https://github.com/theorchestrator/eac-ux-guidelines
+repo_name: theorchestrator/eac-ux-guidelines
+edit_uri: ""
+
+theme:
+  name: material
+  features:
+    - navigation.indexes
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+
+nav:
+  - Home: Home.md
+  - Guidelines:
+      - Overview: Guidelines.md
+      - Visual Design & Presentation:
+          - Overview: Visual-Design-&-Presentation.md
+          - Diegetic and Non-Diegetic Interfaces: Diegetic-and-Non-Diegetic-Interfaces.md
+          - Diegetic Interfaces: Diegetic-Interfaces.md
+          - Graphical User Interface: Graphical-User-Interface.md
+          - Colours: Colours.md
+          - Space Lighting Conditions: Space-Lighting-Conditions.md
+      - Interaction Design:
+          - Overview: Interaction-Design.md
+          - Input Methods:
+              - Overview: Input-Methods.md
+              - Gestures: Gestures.md
+              - Voice: Voice.md
+              - Gaze: Gaze.md
+          - Mapping: Mapping.md
+          - Interaction Feedback: Interaction-Feedback.md
+      - User Support & Control:
+          - Overview: User-Support-&-Control.md
+          - Onboarding: Onboarding.md
+          - Outside Manipulation: Outside-Manipulation.md
+          - Super Soldier Syndrome: Super-Soldier-Syndrome.md
+      - User Comfort:
+          - Overview: User-Comfort.md
+          - Motion Sickness: Motion-Sickness.md
+          - Accessibility: Accessibility.md
+          - Visual Fatigue: Visual-Fatigue.md
+      - User Comfort Questionnaires: User-Comfort-Questionnaires.md
+      - References: References.md
+      - Useful Links: Useful-Links.md

@@ -1,3 +1,11 @@
-# UX Guidelines Home
+# EAC UX Guidelines
 
-Welcome to the UX-Guidelines as prepared by @p-schroeter. Please use the sidebar to navigate to the section you are interested in or start [here](https://github.com/theorchestrator/eac-ux-guidelines/blob/main/Guidelines.md).
+Public guidance for designing comfortable, accessible and effective XR experiences.
+
+## Read the guidelines
+
+**[Open the searchable EAC UX Guidelines wiki](https://theorchestrator.github.io/eac-ux-guidelines/)**
+
+The published wiki includes hierarchical navigation, search, correctly sized images, downloadable reference material and mobile-friendly pages.
+
+This repository contains a clean publication snapshot. It does not include the source GitLab project's history, issues, comments or merge-request discussions.
