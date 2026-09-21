@@ -34,6 +34,7 @@ Lighting behaves very differently in environments without an atmosphere, such as
 * **Favour Sun Adjustments:** Provide options for users or supervisors/trainers to adjust the position and behaviour of the sun. This can include manually rotating the light source, changing the date or time, switching between day and night modes, or choosing from predefined sun positions (e.g., low, centre, high). Adjustable lighting allows people to match the environment to their comfort level, training goals, or accessibility needs.
 
     ![Screenshot 2026-01-14 141424.png](/eac-ux-guidelines/uploads/a8a7b923761633f3a2c277bd15a28a19/Screenshot_2026-01-14_141424.png){width="543"}
+
 * **Place Additional Light Sources:** Supplementing these environments with additional light sources can significantly improve visibility. Lamps positioned near important tools, objects, or workstations help prevent items from being lost in deep shadow. Giving users access to a personal light, such as a helmet-mounted lamp, can also help them navigate darker areas safely and examine objects more clearly. In VR, a common interaction for toggling a helmet light is to raise a controller next to the ear and press the grab button. \[[38](References.md#ref-38)\]
 
     ![Screenshot 2026-01-14 141758.png](/eac-ux-guidelines/uploads/3d101e815eaa82168a0c6d29971c7388/Screenshot_2026-01-14_141758.png){width="801"}
