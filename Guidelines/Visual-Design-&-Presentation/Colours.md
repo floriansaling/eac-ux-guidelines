@@ -11,16 +11,18 @@
 </tr>
 <tr>
 <td>
-
-* Prefer low-saturated, low-luminosity colours for long-term comfort
-* Use colour contrast thoughtfully to guide attention
-* Limit the number of colours to create a cohesive, unified look
-* Use variations of a single hue to add depth without clutter
+<ul>
+<li>Prefer low-saturated, low-luminosity colours for long-term comfort</li>
+<li>Use colour contrast thoughtfully to guide attention</li>
+<li>Limit the number of colours to create a cohesive, unified look</li>
+<li>Use variations of a single hue to add depth without clutter</li>
+</ul>
 </td>
 <td>
-
-* Overuse highly saturated or highly luminescent colours
-* Rely on many competing colours that overwhelm or distract the user
+<ul>
+<li>Overuse highly saturated or highly luminescent colours</li>
+<li>Rely on many competing colours that overwhelm or distract the user</li>
+</ul>
 </td>
 </tr>
 </table>

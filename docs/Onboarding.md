@@ -11,18 +11,20 @@
 </tr>
 <tr>
 <td>
-
-* Provide instructions that are always accessible and easy to revisit
-* Make tutorials interactive, flexible, and paced for the user
-* Use clear, simple visual cues, diagrams, or tooltips to guide actions
-* Give immediate and specific feedback on user actions
+<ul>
+<li>Provide instructions that are always accessible and easy to revisit</li>
+<li>Make tutorials interactive, flexible, and paced for the user</li>
+<li>Use clear, simple visual cues, diagrams, or tooltips to guide actions</li>
+<li>Give immediate and specific feedback on user actions</li>
+</ul>
 </td>
 <td>
-
-* Overwhelm users with too much text or complex instructions
-* Assume all users will complete tutorials successfully on the first attempt
-* Hide instructions or tutorials outside the user’s field of view
-* Force a rigid tutorial pace that pressures or frustrates the user
+<ul>
+<li>Overwhelm users with too much text or complex instructions</li>
+<li>Assume all users will complete tutorials successfully on the first attempt</li>
+<li>Hide instructions or tutorials outside the user’s field of view</li>
+<li>Force a rigid tutorial pace that pressures or frustrates the user</li>
+</ul>
 </td>
 </tr>
 </table>

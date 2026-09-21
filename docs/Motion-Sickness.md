@@ -11,19 +11,21 @@
 </tr>
 <tr>
 <td>
-
-* Align virtual movement with the user’s physical movement to reduce conflict between vision and body.
-* Keep movement smooth and consistent; use teleportation or controller-based rotations to minimize head strain.
-* Provide seating options and let users control their movement and rotation.
-* Subtly restrict field of view during movement to reduce peripheral motion.
-* Create a comfortable environment and encourage short breaks.
+<ul>
+<li>Align virtual movement with the user’s physical movement to reduce conflict between vision and body.</li>
+<li>Keep movement smooth and consistent; use teleportation or controller-based rotations to minimize head strain.</li>
+<li>Provide seating options and let users control their movement and rotation.</li>
+<li>Subtly restrict field of view during movement to reduce peripheral motion.</li>
+<li>Create a comfortable environment and encourage short breaks.</li>
+</ul>
 </td>
 <td>
-
-* Include sudden accelerations, fast zooms, rapid falls, or unnatural rotations.
-* Force pinned GUIs on the camera view without adjustments.
-* Over-restrict FOV or make users turn their heads excessively.
-* Expose new users to prolonged VR sessions without mitigation.
+<ul>
+<li>Include sudden accelerations, fast zooms, rapid falls, or unnatural rotations.</li>
+<li>Force pinned GUIs on the camera view without adjustments.</li>
+<li>Over-restrict FOV or make users turn their heads excessively.</li>
+<li>Expose new users to prolonged VR sessions without mitigation.</li>
+</ul>
 </td>
 </tr>
 </table>

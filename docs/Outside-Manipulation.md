@@ -11,18 +11,20 @@
 </tr>
 <tr>
 <td>
-
-* Provide instructors with consistent, intuitive tools across applications
-* Ensure instructors have clear, easily accessible instructions and reference materials
-* Give instructors shared visual perspectives, including mirrored or multiple viewpoints
-* Include broadly useful features like teleportation, highlighting, and environmental adjustments
+<ul>
+<li>Provide instructors with consistent, intuitive tools across applications</li>
+<li>Ensure instructors have clear, easily accessible instructions and reference materials</li>
+<li>Give instructors shared visual perspectives, including mirrored or multiple viewpoints</li>
+<li>Include broadly useful features like teleportation, highlighting, and environmental adjustments</li>
+</ul>
 </td>
 <td>
-
-* Overcomplicate instructor controls with confusing hotkeys or complex interactions
-* Assume instructors can guide users without access to the user’s perspective
-* Force inconsistent workflows across different XR applications
-* Neglect features that help instructors correct or support user actions in real time
+<ul>
+<li>Overcomplicate instructor controls with confusing hotkeys or complex interactions</li>
+<li>Assume instructors can guide users without access to the user’s perspective</li>
+<li>Force inconsistent workflows across different XR applications</li>
+<li>Neglect features that help instructors correct or support user actions in real time</li>
+</ul>
 </td>
 </tr>
 </table>

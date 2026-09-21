@@ -11,18 +11,20 @@
 </tr>
 <tr>
 <td>
-
-* Keep controller mappings simple and easy to learn
-* Use intuitive, real-world–inspired interactions where possible
-* Stay consistent within the application and across similar XR experiences
-* Support multiple movement and rotation options to suit different users
-* Allow left- and right-handed use or remapping of controls
+<ul>
+<li>Keep controller mappings simple and easy to learn</li>
+<li>Use intuitive, real-world–inspired interactions where possible</li>
+<li>Stay consistent within the application and across similar XR experiences</li>
+<li>Support multiple movement and rotation options to suit different users</li>
+<li>Allow left- and right-handed use or remapping of controls</li>
+</ul>
 </td>
 <td>
-
-* Overload users with complex or frequently changing button mappings
-* Rely on a single movement or rotation method that may cause discomfort
-* Assume all users have the same experience level or physical abilities
+<ul>
+<li>Overload users with complex or frequently changing button mappings</li>
+<li>Rely on a single movement or rotation method that may cause discomfort</li>
+<li>Assume all users have the same experience level or physical abilities</li>
+</ul>
 </td>
 </tr>
 </table>

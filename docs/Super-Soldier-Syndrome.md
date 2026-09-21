@@ -11,19 +11,21 @@
 </tr>
 <tr>
 <td>
-
-* Limit interactions to essential elements to guide correct user behaviour
-* Break procedures into small, clear steps to prevent skipping or improvisation
-* Provide simple, unambiguous instructions to reduce guessing or random actions
-* Give precise, immediate feedback to reinforce correct actions
-* Use multisensory feedback (audio, haptics, etc.) to make actions feel realistic and meaningful
+<ul>
+<li>Limit interactions to essential elements to guide correct user behaviour</li>
+<li>Break procedures into small, clear steps to prevent skipping or improvisation</li>
+<li>Provide simple, unambiguous instructions to reduce guessing or random actions</li>
+<li>Give precise, immediate feedback to reinforce correct actions</li>
+<li>Use multisensory feedback (audio, haptics, etc.) to make actions feel realistic and meaningful</li>
+</ul>
 </td>
 <td>
-
-* Allow unlimited freedom that could encourage skipping steps or unsafe improvisation
-* Present complex or confusing instructions that users might misinterpret
-* Give vague feedback that could let users reinforce incorrect behaviour
-* Neglect sensory cues that make virtual actions feel consequential
+<ul>
+<li>Allow unlimited freedom that could encourage skipping steps or unsafe improvisation</li>
+<li>Present complex or confusing instructions that users might misinterpret</li>
+<li>Give vague feedback that could let users reinforce incorrect behaviour</li>
+<li>Neglect sensory cues that make virtual actions feel consequential</li>
+</ul>
 </td>
 </tr>
 </table>

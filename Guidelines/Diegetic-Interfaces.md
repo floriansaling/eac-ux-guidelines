@@ -11,18 +11,20 @@
 </tr>
 <tr>
 <td>
-
-* Design interactions to closely mimic real-world actions so users can rely on familiar behaviours.
-* Keep actions simple, such as single button presses or intuitive hand gestures, to reduce cognitive load.
-* Provide clear guidance through onboarding, contextual prompts, or temporary highlights to show possible interactions.
-* Use visual, auditory, or haptic feedback to confirm actions and strengthen immersion.
+<ul>
+<li>Design interactions to closely mimic real-world actions so users can rely on familiar behaviours.</li>
+<li>Keep actions simple, such as single button presses or intuitive hand gestures, to reduce cognitive load.</li>
+<li>Provide clear guidance through onboarding, contextual prompts, or temporary highlights to show possible interactions.</li>
+<li>Use visual, auditory, or haptic feedback to confirm actions and strengthen immersion.</li>
+</ul>
 </td>
 <td>
-
-* Force users to guess what is interactive by making objects visually similar to non-interactable elements.
-* Scatter interactive objects randomly or place them out of reach, making them hard to notice or access.
-* Overcomplicate interactions with multi-step or obscure actions that require trial-and-error.
-* Ignore feedback, leaving users uncertain whether their actions succeeded, which can lead to confusion or unrealistic behaviour.
+<ul>
+<li>Force users to guess what is interactive by making objects visually similar to non-interactable elements.</li>
+<li>Scatter interactive objects randomly or place them out of reach, making them hard to notice or access.</li>
+<li>Overcomplicate interactions with multi-step or obscure actions that require trial-and-error.</li>
+<li>Ignore feedback, leaving users uncertain whether their actions succeeded, which can lead to confusion or unrealistic behaviour.</li>
+</ul>
 </td>
 </tr>
 </table>

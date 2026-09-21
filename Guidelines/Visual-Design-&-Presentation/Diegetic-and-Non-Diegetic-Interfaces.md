@@ -11,59 +11,59 @@ When to use diegetic interfaces can depend on several factors, including the typ
 </tr>
 <tr>
 <td>
-
-**Advantages**
-
-* Strong sense of immersion and presence
-* Integrated naturally into the virtual world
-* Can reduce motion sickness
-* Encourages intuitive, real-world interaction
+<p><strong>Advantages</strong></p>
+<ul>
+<li>Strong sense of immersion and presence</li>
+<li>Integrated naturally into the virtual world</li>
+<li>Can reduce motion sickness</li>
+<li>Encourages intuitive, real-world interaction</li>
+</ul>
 </td>
 <td>
-
-**Advantages**
-
-* Fast and efficient interactions
-* Low cognitive load
-* High readability and clarity
-* Familiar to most users
-</td>
-</tr>
-<tr>
-<td>
-
-**Disadvantages:**
-
-* Slower task completion
-* Higher cognitive load if complex
-* Requires clear cues, feedback, and instructions
-* Can be harder to discover or use
-</td>
-<td>
-
-**Disadvantages**
-
-* Breaks immersion
-* Can cause discomfort if camera-pinned
-* Feels artificial in 3D environments
+<p><strong>Advantages</strong></p>
+<ul>
+<li>Fast and efficient interactions</li>
+<li>Low cognitive load</li>
+<li>High readability and clarity</li>
+<li>Familiar to most users</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td>
-
-**Good for:**
-
-* Simulations that focus on mimicking real-world interactions
-* Applications that are used more often and long-term (so users can get used to more complex interactions)
-* Simple and intuitive interactions
+<p><strong>Disadvantages:</strong></p>
+<ul>
+<li>Slower task completion</li>
+<li>Higher cognitive load if complex</li>
+<li>Requires clear cues, feedback, and instructions</li>
+<li>Can be harder to discover or use</li>
+</ul>
 </td>
 <td>
-
-**Good for**
-
-* Shorter applications or training simulations (to reduce complexity and cognitive load)
-* More complex interactions
-* Less guided interactions
+<p><strong>Disadvantages</strong></p>
+<ul>
+<li>Breaks immersion</li>
+<li>Can cause discomfort if camera-pinned</li>
+<li>Feels artificial in 3D environments</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Good for:</strong></p>
+<ul>
+<li>Simulations that focus on mimicking real-world interactions</li>
+<li>Applications that are used more often and long-term (so users can get used to more complex interactions)</li>
+<li>Simple and intuitive interactions</li>
+</ul>
+</td>
+<td>
+<p><strong>Good for</strong></p>
+<ul>
+<li>Shorter applications or training simulations (to reduce complexity and cognitive load)</li>
+<li>More complex interactions</li>
+<li>Less guided interactions</li>
+</ul>
 </td>
 </tr>
 </table>

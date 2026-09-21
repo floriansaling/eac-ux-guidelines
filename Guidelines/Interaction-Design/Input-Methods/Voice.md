@@ -11,18 +11,20 @@
 </tr>
 <tr>
 <td>
-
-* Use short, simple, and distinct commands that are easy to say and remember.
-* Ensure commands are safe, reversible, and consistent across the experience.
-* Test with diverse accents to improve recognition accuracy.
-* Provide users with a clear overview of available voice commands.
+<ul>
+<li>Use short, simple, and distinct commands that are easy to say and remember.</li>
+<li>Ensure commands are safe, reversible, and consistent across the experience.</li>
+<li>Test with diverse accents to improve recognition accuracy.</li>
+<li>Provide users with a clear overview of available voice commands.</li>
+</ul>
 </td>
 <td>
-
-* Use similar-sounding or overly complex phrases that cause confusion.
-* Keep commands active when they’re not relevant to the current context.
-* Override or conflict with system-level voice commands.
-* Assume voice alone is sufficient—combine with other input methods when needed.
+<ul>
+<li>Use similar-sounding or overly complex phrases that cause confusion.</li>
+<li>Keep commands active when they’re not relevant to the current context.</li>
+<li>Override or conflict with system-level voice commands.</li>
+<li>Assume voice alone is sufficient—combine with other input methods when needed.</li>
+</ul>
 </td>
 </tr>
 </table>

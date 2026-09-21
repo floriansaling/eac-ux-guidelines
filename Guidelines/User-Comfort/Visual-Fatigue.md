@@ -14,18 +14,20 @@ title: Visual Fatigue
 </tr>
 <tr>
 <td>
-
-* Use dark mode (bright text on dark background) and reduce overall brightness
-* Keep brightness, colour saturation, and luminosity consistent across scenes
-* Apply subtle motion parallax and natural depth cues to reduce strain
-* Provide clear guidance and allow breaks during longer sessions
+<ul>
+<li>Use dark mode (bright text on dark background) and reduce overall brightness</li>
+<li>Keep brightness, colour saturation, and luminosity consistent across scenes</li>
+<li>Apply subtle motion parallax and natural depth cues to reduce strain</li>
+<li>Provide clear guidance and allow breaks during longer sessions</li>
+</ul>
 </td>
 <td>
-
-* Use highly saturated or highly luminescent colours for extended periods
-* Make frequent or abrupt colour changes
-* Include unnatural or contradictory depth cues
-* Overload users with fast-paced visuals or complex tasks
+<ul>
+<li>Use highly saturated or highly luminescent colours for extended periods</li>
+<li>Make frequent or abrupt colour changes</li>
+<li>Include unnatural or contradictory depth cues</li>
+<li>Overload users with fast-paced visuals or complex tasks</li>
+</ul>
 </td>
 </tr>
 </table>

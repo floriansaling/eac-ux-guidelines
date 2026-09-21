@@ -11,15 +11,17 @@
 </tr>
 <tr>
 <td>
-
-* Provide adjustable lighting or sun positions
-* Use additional light sources for key objects
-* Ensure important items remain clearly visible
+<ul>
+<li>Provide adjustable lighting or sun positions</li>
+<li>Use additional light sources for key objects</li>
+<li>Ensure important items remain clearly visible</li>
+</ul>
 </td>
 <td>
-
-* Place objects where shadows can hide them
-* Rely solely on extreme light–dark contrasts
+<ul>
+<li>Place objects where shadows can hide them</li>
+<li>Rely solely on extreme light–dark contrasts</li>
+</ul>
 </td>
 </tr>
 </table>

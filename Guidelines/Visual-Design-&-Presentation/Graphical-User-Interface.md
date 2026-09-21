@@ -14,16 +14,18 @@ title: Billboard Interfaces
 </tr>
 <tr>
 <td>
-
-* Keep interfaces simple, symmetrical, and visually clear
-* Place important UI elements in the comfortable viewing zone
-* Use consistent visual or auditory feedback to show what is interactable
-* Choose readable sizes, spacing, and a limited colour palette
+<ul>
+<li>Keep interfaces simple, symmetrical, and visually clear</li>
+<li>Place important UI elements in the comfortable viewing zone</li>
+<li>Use consistent visual or auditory feedback to show what is interactable</li>
+<li>Choose readable sizes, spacing, and a limited colour palette</li>
+</ul>
 </td>
 <td>
-
-* Overload the user with text, clutter, or floating UI elements
-* Pin GUI elements rigidly to the user’s camera view
+<ul>
+<li>Overload the user with text, clutter, or floating UI elements</li>
+<li>Pin GUI elements rigidly to the user’s camera view</li>
+</ul>
 </td>
 </tr>
 </table>

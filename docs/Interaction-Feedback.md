@@ -11,19 +11,21 @@
 </tr>
 <tr>
 <td>
-
-* Use clear, consistent feedback patterns so users know what to expect
-* Provide feedback for every user action, including delayed or loading responses
-* Combine visual, auditory, and haptic cues to improve clarity and immersion
-* Use haptic feedback to reinforce actions without demanding visual attention
-* Choose colours thoughtfully and pair them with other feedback modalities
+<ul>
+<li>Use clear, consistent feedback patterns so users know what to expect</li>
+<li>Provide feedback for every user action, including delayed or loading responses</li>
+<li>Combine visual, auditory, and haptic cues to improve clarity and immersion</li>
+<li>Use haptic feedback to reinforce actions without demanding visual attention</li>
+<li>Choose colours thoughtfully and pair them with other feedback modalities</li>
+</ul>
 </td>
 <td>
-
-* Rely on a single sensory channel for critical feedback
-* Overwhelm users with too many or overly intense feedback signals
-* Use inconsistent or ambiguous feedback that can confuse user actions
-* Allow 2D markers or visual cues to blend into the environment and go unnoticed
+<ul>
+<li>Rely on a single sensory channel for critical feedback</li>
+<li>Overwhelm users with too many or overly intense feedback signals</li>
+<li>Use inconsistent or ambiguous feedback that can confuse user actions</li>
+<li>Allow 2D markers or visual cues to blend into the environment and go unnoticed</li>
+</ul>
 </td>
 </tr>
 </table>

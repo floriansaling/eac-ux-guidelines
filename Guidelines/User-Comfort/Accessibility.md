@@ -11,20 +11,22 @@
 </tr>
 <tr>
 <td>
-
-* Design for all users, including left-handed, colourblind, or mobility-limited individuals
-* Offer flexible movement and seating options to accommodate varying physical abilities
-* Use multimodal communication (visual, auditory, haptic) for key information
-* Provide adjustable difficulty levels and allow reversibility of actions
-* Make accessibility features visible, easy to activate, and explain them during onboarding
+<ul>
+<li>Design for all users, including left-handed, colourblind, or mobility-limited individuals</li>
+<li>Offer flexible movement and seating options to accommodate varying physical abilities</li>
+<li>Use multimodal communication (visual, auditory, haptic) for key information</li>
+<li>Provide adjustable difficulty levels and allow reversibility of actions</li>
+<li>Make accessibility features visible, easy to activate, and explain them during onboarding</li>
+</ul>
 </td>
 <td>
-
-* Assume all users have the same abilities or environmental conditions
-* Rely solely on audio, colour, or precise physical actions to convey information
-* Place critical objects or instructions out of reach or only in peripheral zones
-* Force users into one interaction style (e.g., only standing, only right-handed)
-* Overlook temporary or situational disabilities (e.g., holding items, noisy environments)
+<ul>
+<li>Assume all users have the same abilities or environmental conditions</li>
+<li>Rely solely on audio, colour, or precise physical actions to convey information</li>
+<li>Place critical objects or instructions out of reach or only in peripheral zones</li>
+<li>Force users into one interaction style (e.g., only standing, only right-handed)</li>
+<li>Overlook temporary or situational disabilities (e.g., holding items, noisy environments)</li>
+</ul>
 </td>
 </tr>
 </table>

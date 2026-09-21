@@ -11,17 +11,19 @@
 </tr>
 <tr>
 <td>
-
-* Use intuitive, real-world gestures to reduce learning effort and increase confidence.
-* Keep gestures simple, clear, and easy to remember.
-* Design UI elements to naturally suggest how they should be interacted with.
-* Combine gestures with tools like eye tracking or hand rays for better precision and reach.
+<ul>
+<li>Use intuitive, real-world gestures to reduce learning effort and increase confidence.</li>
+<li>Keep gestures simple, clear, and easy to remember.</li>
+<li>Design UI elements to naturally suggest how they should be interacted with.</li>
+<li>Combine gestures with tools like eye tracking or hand rays for better precision and reach.</li>
+</ul>
 </td>
 <td>
-
-* Overload users with too many or overly complex gestures.
-* Place interactive objects too close together, causing accidental inputs.
-* Rely on unclear or abstract gestures that require explanation.
+<ul>
+<li>Overload users with too many or overly complex gestures.</li>
+<li>Place interactive objects too close together, causing accidental inputs.</li>
+<li>Rely on unclear or abstract gestures that require explanation.</li>
+</ul>
 </td>
 </tr>
 </table>

@@ -11,16 +11,18 @@
 </tr>
 <tr>
 <td>
-
-* Provide subtle feedback to confirm gaze interaction without distraction.
-* Combine gaze with other inputs (e.g., gesture or voice) for better control.
-* Use sufficiently large targets to reduce strain and improve accuracy.
+<ul>
+<li>Provide subtle feedback to confirm gaze interaction without distraction.</li>
+<li>Combine gaze with other inputs (e.g., gesture or voice) for better control.</li>
+<li>Use sufficiently large targets to reduce strain and improve accuracy.</li>
+</ul>
 </td>
 <td>
-
-* Force unnatural or repetitive eye/head movements through poor layout.
-* Attach UI elements directly to gaze in a distracting way.
-* Make feedback too immediate or flickery due to natural eye movement.
+<ul>
+<li>Force unnatural or repetitive eye/head movements through poor layout.</li>
+<li>Attach UI elements directly to gaze in a distracting way.</li>
+<li>Make feedback too immediate or flickery due to natural eye movement.</li>
+</ul>
 </td>
 </tr>
 </table>
