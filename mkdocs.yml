@@ -40,33 +40,34 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Guidelines:
-      - Overview: Guidelines.md
+      - Guidelines: Guidelines.md
       - Visual Design & Presentation:
-          - Overview: Visual-Design-&-Presentation.md
-          - Diegetic and Non-Diegetic Interfaces: Diegetic-and-Non-Diegetic-Interfaces.md
-          - Diegetic Interfaces: Diegetic-Interfaces.md
-          - Graphical User Interface: Graphical-User-Interface.md
+          - Visual Design & Presentation: Visual-Design-&-Presentation.md
+          - Diegetic and Non-Diegetic Interfaces:
+              - Diegetic and Non-Diegetic Interfaces: Diegetic-and-Non-Diegetic-Interfaces.md
+              - Billboard Interfaces: Graphical-User-Interface.md
+              - Diegetic Interfaces: Diegetic-Interfaces.md
           - Colours: Colours.md
           - Space Lighting Conditions: Space-Lighting-Conditions.md
       - Interaction Design:
-          - Overview: Interaction-Design.md
+          - Interaction Design: Interaction-Design.md
           - Input Methods:
-              - Overview: Input-Methods.md
-              - Gestures: Gestures.md
+              - Input Methods: Input-Methods.md
+              - Controller Mapping & Locomotion: Mapping.md
               - Voice: Voice.md
               - Gaze: Gaze.md
-          - Mapping: Mapping.md
+              - Gestures: Gestures.md
           - Interaction Feedback: Interaction-Feedback.md
       - User Support & Control:
-          - Overview: User-Support-&-Control.md
+          - User Support & Control: User-Support-&-Control.md
           - Onboarding: Onboarding.md
           - Outside Manipulation: Outside-Manipulation.md
           - Super Soldier Syndrome: Super-Soldier-Syndrome.md
       - User Comfort:
-          - Overview: User-Comfort.md
-          - Motion Sickness: Motion-Sickness.md
+          - User Comfort: User-Comfort.md
           - Accessibility: Accessibility.md
           - Visual Fatigue: Visual-Fatigue.md
-      - User Comfort Questionnaires: User-Comfort-Questionnaires.md
+          - Motion Sickness: Motion-Sickness.md
       - References: References.md
       - Useful Links: Useful-Links.md
+      - User Comfort Questionnaires: User-Comfort-Questionnaires.md

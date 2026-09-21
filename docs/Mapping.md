@@ -1,3 +1,6 @@
+---
+title: Controller Mapping & Locomotion
+---
 <table>
 <tr>
 <th>
