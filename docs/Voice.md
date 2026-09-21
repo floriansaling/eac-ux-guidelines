@@ -29,7 +29,7 @@
 </tr>
 </table>
 
-Voice input is a common interaction method in XR applications, particularly in situations where users need to interact with the system without using their hands. This can be especially beneficial in scenarios that require multitasking, physical movement, or sustained manual interaction, such as training, maintenance, or collaborative tasks. Voice-based interactions often enable faster and more natural communication, which can improve efficiency and enhance the overall sense of immersion. Most of the following guidelines have been taken from Microsoft’s AR Design guidelines regarding the Hololens \[[34](References.md)\].
+Voice input is a common interaction method in XR applications, particularly in situations where users need to interact with the system without using their hands. This can be especially beneficial in scenarios that require multitasking, physical movement, or sustained manual interaction, such as training, maintenance, or collaborative tasks. Voice-based interactions often enable faster and more natural communication, which can improve efficiency and enhance the overall sense of immersion. Most of the following guidelines have been taken from Microsoft’s AR Design guidelines regarding the Hololens \[[34](References.md#ref-34)\].
 
 * **Use concise commands:** When possible, choose keywords of two or more syllables. One-syllable words tend to use different vowel sounds when spoken by persons of different accents. Example: "Play video" is better than "Play the currently selected video"
 * **Use simple vocabulary:** Simpler vocabulary is easier to say, more rememberable and can cause fewer mistakes. Example: "Show note" is better than "Show placard"

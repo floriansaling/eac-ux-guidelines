@@ -38,4 +38,4 @@ Gestures are an input method that allow users to interact with virtual environme
 * **Combine with Eye Tracking When Appropriate:** Integrating eye tracking can improve precision and reduce unintended inputs. By identifying what the user is focusing on, the system can better determine whether a gesture is intentional and correctly targeted.
 * **Favour Hand Rays for Distant Interaction:** Not all objects are within immediate reach. Hand rays enable users to interact with distant elements more easily, improving accessibility and reducing the need for excessive movement.
 
-These guidelines have been taken and summarised from the Microsoft Mixed Reality Guidelines \[[34](References.md)\]
+These guidelines have been taken and summarised from the Microsoft Mixed Reality Guidelines \[[34](References.md#ref-34)\]

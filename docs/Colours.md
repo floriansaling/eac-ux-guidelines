@@ -31,37 +31,33 @@ Colours are an important aspect of any application. Choosing the wrong colours c
 
 #### Saturated Colours
 
-* **What Are Saturated Colours?:** Saturation refers to the intensity of the colour. The more saturated a colour is, the more vibrant it appears. On the other hand, the less saturated a colour is, the closer it gets to grey. \[[2, 26](References.md)\]
+* **What Are Saturated Colours?:** Saturation refers to the intensity of the colour. The more saturated a colour is, the more vibrant it appears. On the other hand, the less saturated a colour is, the closer it gets to grey. \[[2](References.md#ref-2), [26](References.md#ref-26)\]
 
-<img src="/eac-ux-guidelines/uploads/bb25bc27cea0484963cf77f135707d44/image.png" alt="image.png" width="441" height="465">
+    ![image.png](/eac-ux-guidelines/uploads/bb25bc27cea0484963cf77f135707d44/image.png){width="441"}
 
-* **Use:** Highly saturated colours are often very attention-grabbing and can be seen as aggressive. Additionally, in virtual environments, highly saturated colours can contribute to visual fatigue (see [Visual Fatigue](Visual-Fatigue.md)_)_. Lower-saturation colours are generally recommended for comfortable long-term use. \[[2, 26, 31, 33](References.md)\]
-* **Saturation changer tool**
-
-  https://pinetools.com/change-color-saturation
+* **Use:** Highly saturated colours are often very attention-grabbing and can be seen as aggressive. Additionally, in virtual environments, highly saturated colours can contribute to visual fatigue (see [Visual Fatigue](Visual-Fatigue.md)). Lower-saturation colours are generally recommended for comfortable long-term use. \[[2](References.md#ref-2), [26](References.md#ref-26), [31](References.md#ref-31), [33](References.md#ref-33)\]
+* **Saturation changer tool:** [PineTools saturation changer](https://pinetools.com/change-color-saturation)
 
 #### Luminescent Colours
 
-* **What are Luminescent Colours?:** Luminosity is the perceived brightness of a colour. Luminosity and lightness value of a colour are not necessarily the same thing. The lightness value can be adjusted by darkening or lightening the colour, but luminosity is a value that every colour (hue) naturally has. This value is especially noticeable in greyscale. Colours with high luminosity are closer to white in greyscale, while those with low luminosity are closer to black. \[[14](References.md)\]
+* **What are Luminescent Colours?:** Luminosity is the perceived brightness of a colour. Luminosity and lightness value of a colour are not necessarily the same thing. The lightness value can be adjusted by darkening or lightening the colour, but luminosity is a value that every colour (hue) naturally has. This value is especially noticeable in greyscale. Colours with high luminosity are closer to white in greyscale, while those with low luminosity are closer to black. \[[14](References.md#ref-14)\]
 
-![image.png](/eac-ux-guidelines/uploads/78a2d1c2ee781b0267678b8c9534a388/image.png)
+    ![image.png](/eac-ux-guidelines/uploads/78a2d1c2ee781b0267678b8c9534a388/image.png)
 
-* **Use**: Different luminescent values can highlight a colour since the contrast between the colours is more accentuated. However, highly luminescent colours can cause visual fatigue in a virtual environment (see [Visual Fatigue](Visual-Fatigue.md)). These colours should therefore be used sparingly, with most emphasis placed on lower-luminosity colours. \[[14, 31, 33](References.md)\]
+* **Use**: Different luminescent values can highlight a colour since the contrast between the colours is more accentuated. However, highly luminescent colours can cause visual fatigue in a virtual environment (see [Visual Fatigue](Visual-Fatigue.md)). These colours should therefore be used sparingly, with most emphasis placed on lower-luminosity colours. \[[14](References.md#ref-14), [31](References.md#ref-31), [33](References.md#ref-33)\]
 
 #### Monochromatic Colours
 
-* **Definition:** Monochromatic colours are colours that are variations of the same colour (hue) but differ in tints, tones, and shades. \[[45](References.md)\]
-* **Use:** Having too many different colours can overwhelm users, while a monochromatic palette can give the appearance of a more unified, cohesive, and well-rounded design. It also adds texture and depth to projects. \[[45](References.md)\]
-* **Monochromatic Colour Generator**
-
-  https://pinetools.com/monochromatic-colors-generator
+* **Definition:** Monochromatic colours are colours that are variations of the same colour (hue) but differ in tints, tones, and shades. \[[45](References.md#ref-45)\]
+* **Use:** Having too many different colours can overwhelm users, while a monochromatic palette can give the appearance of a more unified, cohesive, and well-rounded design. It also adds texture and depth to projects. \[[45](References.md#ref-45)\]
+* **Monochromatic Colour Generator:** [PineTools monochromatic colour generator](https://pinetools.com/monochromatic-colors-generator)
 
 #### ESA Colours
 
 The official ESA colours + their monochromatic colour palette:
 
-<img src="/eac-ux-guidelines/uploads/19159510cbe26064368a2a53c4c08968/image.png" alt="image.png" width="840" height="595">
+![image.png](/eac-ux-guidelines/uploads/19159510cbe26064368a2a53c4c08968/image.png){width="840"}
 
 [esa-colour-recap-charts.pdf](/eac-ux-guidelines/uploads/f07bed2afe1beb83df7cb0eb1d52f861/esa-colour-recap-charts.pdf)
 
-These colours can be found on the official ESA branding website: https://brand.esa.int/asset-s/
+These colours can be found on the [official ESA branding website](https://brand.esa.int/asset-s/).
