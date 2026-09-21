@@ -4,7 +4,7 @@ Public guidance for designing comfortable, accessible and effective XR experienc
 
 ## Read the guidelines
 
-**[Open the searchable EAC UX Guidelines wiki](https://theorchestrator.github.io/eac-ux-guidelines/)**
+**[Open the searchable EAC UX Guidelines wiki](https://floriansaling.github.io/eac-ux-guidelines/)**
 
 The published wiki includes hierarchical navigation, search, correctly sized images, downloadable reference material and mobile-friendly pages.
 

@@ -30,8 +30,8 @@ Example:
 
 ### Cheat Sheet
 
-<img src="/eac-ux-guidelines/uploads/42cfa2374c0ad5ce7f65eec90408fa72/image.png" alt="image.png" width="849" height="600">
+<img src="/eac-ux-guidelines/uploads/42cfa2374c0ad5ce7f65eec90408fa72/image.png" alt="XR Guidelines Cheat Sheet" width="849">
 
 [XR Guidelines Cheat Sheet.pdf](/eac-ux-guidelines/uploads/05cbb7d65ffbab6b6302630a9079a0ff/XR_Guidelines_Cheat_Sheet.pdf)
 
-[XR Guidelines.docx](/eac-ux-guidelines/uploads/2399b2d7da427416a3b08843d67b82ba/XR_Guidelines.docx)
+[XR Guidelines Cheat Sheet.docx](/eac-ux-guidelines/uploads/2399b2d7da427416a3b08843d67b82ba/XR_Guidelines.docx)

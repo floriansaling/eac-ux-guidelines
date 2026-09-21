@@ -1,8 +1,8 @@
 site_name: EAC UX Guidelines
 site_description: UX guidance for designing XR applications
-site_url: https://theorchestrator.github.io/eac-ux-guidelines/
-repo_url: https://github.com/theorchestrator/eac-ux-guidelines
-repo_name: theorchestrator/eac-ux-guidelines
+site_url: https://floriansaling.github.io/eac-ux-guidelines/
+repo_url: https://github.com/floriansaling/eac-ux-guidelines
+repo_name: floriansaling/eac-ux-guidelines
 edit_uri: ""
 
 theme:
