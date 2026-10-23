@@ -28,7 +28,7 @@
 </tr>
 </table>
 
-Gestures are an input method that allow users to interact with virtual environments using their hands. This enables direct manipulation of objects and can create a more natural and immersive interaction experience. Gestures can be based on predefined system inputs or mimic real-world actions, depending on the interaction. When designed effectively, gesture-based interactions can feel intuitive and reduce the need for additional input devices.
+Gestures are an input method that allow users to interact with virtual environments using their hands. This enables direct manipulation of objects and can create a more natural and immersive interaction experience. \[[76](References.md#ref-76), [80](References.md#ref-80)\] Gestures can be based on predefined system inputs or mimic real-world actions, depending on the interaction. When designed effectively, gesture-based interactions can feel intuitive and reduce the need for additional input devices.
 
 * **Adapt UI for Instinctual Gestures:** The design of UI elements can guide users toward appropriate interactions. For example, larger objects may encourage full-hand interactions, while smaller elements suggest more precise inputs such as a pinch or single-finger press. Visual cues such as shape, size, and highlights can help communicate where and how an object can be interacted with.
 * **Favour Instinctual Gestures:** Prioritise gestures that reflect real-world interactions. Familiar movements reduce the learning curve and allow users to interact more confidently, even in unfamiliar virtual environments.
@@ -38,4 +38,4 @@ Gestures are an input method that allow users to interact with virtual environme
 * **Combine with Eye Tracking When Appropriate:** Integrating eye tracking can improve precision and reduce unintended inputs. By identifying what the user is focusing on, the system can better determine whether a gesture is intentional and correctly targeted.
 * **Favour Hand Rays for Distant Interaction:** Not all objects are within immediate reach. Hand rays enable users to interact with distant elements more easily, improving accessibility and reducing the need for excessive movement.
 
-These guidelines have been taken and summarised from the Microsoft Mixed Reality Guidelines \[[34](References.md#ref-34)\]
+These guidelines have been taken and summarised from the Microsoft Mixed Reality Guidelines \[[45](References.md#ref-45)\]

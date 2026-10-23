@@ -58,6 +58,7 @@ nav:
               - Gaze: Gaze.md
               - Gestures: Gestures.md
           - Interaction Feedback: Interaction-Feedback.md
+          - Content Zones: Content-Zones.md
       - User Support & Control:
           - User Support & Control: User-Support-&-Control.md
           - Onboarding: Onboarding.md
@@ -70,4 +71,3 @@ nav:
           - Motion Sickness: Motion-Sickness.md
       - References: References.md
       - Useful Links: Useful-Links.md
-      - User Comfort Questionnaires: User-Comfort-Questionnaires.md
